@@ -33,7 +33,9 @@ body{
 }
 .Fundo{
     background-image: url(../img/eletricidade.jpeg);
-    position: relative;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .conjunto{
     position: relative;
