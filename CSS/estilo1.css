@@ -17,7 +17,13 @@ body{
     height: 100px;
     left: 350px;
     top: 25px;
-
+}
+.lua{
+    position: absolute;
+    width: 20px;
+    height: 50px;
+    right: 500px;
+    top: 70px;
 }
 .titulo1{
     position: relative;
