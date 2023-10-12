@@ -11,6 +11,12 @@ body{
     height: 100vh;
     background-color: #70beeb
 }
+.Cabeçalho{
+    text-align: center;
+    background-color: rgb(245, 245, 239);
+    letter-spacing: 8px;
+    background-image: url(../img/eletricidade.jpeg);
+}
 .texto_total{
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
     text-align: justify;
