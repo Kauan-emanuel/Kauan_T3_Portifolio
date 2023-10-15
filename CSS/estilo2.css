@@ -10,7 +10,7 @@ body{
     background-image: url(../img/fundo_pag2_2.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 190%;
+    background-size: 260%;
 }
 .Cabeçalho{
     text-align: center;
@@ -88,12 +88,37 @@ body{
 .texto4{
     text-align: justify;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
-    width: 900px; 
+    width: 900px;
+    left: 50px;
+    top: 1350;
 }
+.titulo_texto4{
+    position: relative;
+    text-align: middle;
+}
+.imagem_texto4{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 500px;
+    top: 1320px;  
+} 
 .texto5{
     text-align: justify;
+    position: absolute;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
-    width: 900px; 
+    width: 900px;
+    left: 450px;
+    top: 1525px; 
+}
+.titulo_texto5{
+    position: relative;
+    text-align: center;
+}
+.imagem_texto5{
+    right: 800px;
+    top: 1490px;
+    position: absolute;
 }
 .texto6{
     text-align: justify;
