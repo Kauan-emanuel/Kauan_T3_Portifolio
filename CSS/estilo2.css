@@ -1,3 +1,4 @@
+@media screen and (max-width: 1370px){
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Noto+Sans+Sundanese&display=swap');
 *{
     text-decoration: none;
@@ -10,7 +11,7 @@ body{
     background-image: url(../img/fundo_pag2_2.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 260%;
+    background-size: 311%;
 }
 .Cabeçalho{
     text-align: center;
@@ -117,11 +118,24 @@ body{
 }
 .imagem_texto5{
     right: 800px;
-    top: 1490px;
+    top: 1515px;
     position: absolute;
 }
 .texto6{
     text-align: justify;
+    position: absolute;
+    top: 1730px;
     text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.7);
-    width: 900px; 
+    width: 900px;     
+}
+.titulo_texto6{
+    position: relative;
+    text-align: middle;
+}
+.imagem_texto6{
+    position: relative;
+    width: 150px;
+    height: 30px;
+    left: 700px;
+}
 }

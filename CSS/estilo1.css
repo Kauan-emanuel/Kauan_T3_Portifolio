@@ -1,3 +1,5 @@
+@media screen and (max-width: 1370px){
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Noto+Sans+Sundanese&display=swap');
 *{
     text-decoration: none;
@@ -19,13 +21,6 @@ body{
     height: 100px;
     left: 350px;
     top: 25px;
-}
-.lua{
-    position: absolute;
-    width: 20px;
-    height: 50px;
-    right: 470px;
-    top: 67px;
 }
 .titulo1{
     position: relative;
@@ -66,4 +61,5 @@ body{
 }
 .titulo3{
     padding-left: 75%;
+}
 }
