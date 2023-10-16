@@ -1,4 +1,4 @@
-@media screen and (max-width: 1900px){
+@media screen and (min-width:992px) and (max-width: 1900px){
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Noto+Sans+Sundanese&display=swap');
 *{
     text-decoration: none;
