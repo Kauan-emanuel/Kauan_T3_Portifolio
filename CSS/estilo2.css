@@ -1,4 +1,4 @@
-@media screen and (max-width: 1370px){
+@media screen and (max-width: 1900px){
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Noto+Sans+Sundanese&display=swap');
 *{
     text-decoration: none;
@@ -11,7 +11,7 @@ body{
     background-image: url(../img/fundo_pag2_2.jpeg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 311%;
+    background-size: 339%;
 }
 .Cabeçalho{
     text-align: center;
